@@ -1,0 +1,39 @@
+CHORE TIME Version 2
+
+VI had no security
+V1 had no UI for housemates...
+
+V2 should have security
+ -- One owner operator.
+ -- Operator should be alerted of responses to house number?
+
+V1 only texts you at the beginning of the week.
+V2 should allow multiple alerts per week per chore, customizable...
+
+V2 should have customizable SMS alerts...
+
+V2 should allow housemates to respond with "done" or something like that...
+
+V1 only worked for 1212
+V2 should allow anyone to sign up, get a custom phone number for their house, and setup chores, housemates, schedule.
+
+V1 has an arbitrary schedule, basically manually set by philip years ago.
+  -> requires equal numbers of chores, housemates
+V2 should allow easy modification of the schedule?
+  -> should allow different numbers of chores, housemates
+  -> it should be easy to adjust schedule, and understand implications...
+  -> it generate a schedule for you at first.
+
+
+housemate
+
+chore
+
+schedule of housemates and chores
+  -> relies on #chores == #housemates
+
+alerts
+  -> text
+  -> email
+  -> phone call
+  -> tweet
