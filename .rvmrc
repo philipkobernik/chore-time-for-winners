@@ -1,2 +1,2 @@
-rvm --create 1.9.3-p125@chore_time
-rvm use 1.9.3-p125@chore_time
+rvm --create 1.9.3-p327@chore_time
+rvm use 1.9.3-p327@chore_time
